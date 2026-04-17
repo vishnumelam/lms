@@ -12,3 +12,4 @@ Pillow==11.1.0
 requests==2.32.3
 whitenoise==6.7.0
 pytz==2025.2
+setuptools==82.0.1
